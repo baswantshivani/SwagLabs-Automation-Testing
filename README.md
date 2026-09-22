@@ -14,8 +14,8 @@ using Selenium WebDriver with Java.
 ## Modules Tested
 - Login (Positive & Negative scenarios)
 - Product Listing & Details
-- Add to Cart
-- Checkout Flow
+- Product details
+- Product name, description and price validation
 
 ## How to Run
 1. Clone the repository
